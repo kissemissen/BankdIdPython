@@ -17,7 +17,7 @@ The auth and sign functions require a Swedish Social Security Number (SSN, perso
 To create an SSN, please follow the instructions given at the BankId developer homepage: https://www.bankid.com/utvecklare/rp-info. <br />
 
 <b>License information</b><br />
-This distribution is released with the conditions of GNU General Public License (GPL) code, so it may be used in proprietary projects.
+This distribution is released with the conditions of the MIT License.
 
 All trademarks referenced herein are property of their respective holders.
 
