@@ -10,7 +10,7 @@ N.B! Using a virtual environment is recommended to isolate the plugins. This ste
 3. Run pip install -r requirements.txt <br />
 4. Run python app.py <br />
 
-Please note that full error handling is not implemented. As an example, the app will crash if the user i.e. tries to select collect before an ath or sign has been initialized.
+Please note that full error handling is not implemented. As an example, the app will crash if the user i.e. tries to select collect before an auth or sign has been initialized.
 
 <b>app.py</b><br />
 The auth and sign functions require a Swedish Social Security Number (SSN, personnummer) to be entered. The sign option also takes an amount to be signed. <br />
