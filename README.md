@@ -14,5 +14,9 @@ N.B! Using a virtual environment is recommended to isolate the plugins. This ste
 The auth and sign functions require a Swedish Social Security Number (SSN, personnummer) to be entered. The sign option also takes an amount to be signed. <br />
 To create an SSN, please follow the instructions given at the BankId developer homepage: https://www.bankid.com/utvecklare/rp-info. <br />
 
+<b>License information</b><br />
+This distribution is released with the conditions of GNU General Public License (GPL) code, so it may be used in proprietary projects.
 
+All trademarks referenced herein are property of their respective holders.
 
+<h3>Happy coding!</h3>
