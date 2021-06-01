@@ -1,4 +1,4 @@
-# BankdIdPython for Pyhon3.x
+# BankdId Client and UI for Python3.x
 A small repository that offers a client implementation for Swedish BankId with both auth and sign. TO BE USED WITH PYTHON3.
 
 The repositoy is structured with app.py being the text based user interface, model.py containing the Client which connects to the BankdId services and the certificates and keys which are used to authenticate the rest api calls to the BankId server.
